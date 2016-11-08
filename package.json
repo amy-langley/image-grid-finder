@@ -1,0 +1,12 @@
+{
+  "name": "image-grid-finder",
+  "version": "1.0.0",
+  "description": "Find grids in images",
+  "main": "index.js",
+  "repository": {
+    "url": "git@github.com:amyrebecca/image-grid-finder.git",
+    "type": "git"
+  },
+  "author": "Amy Boyer <amy.r.boyer@gmail.com>",
+  "license": "MIT"
+}
